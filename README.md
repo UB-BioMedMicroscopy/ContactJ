@@ -3,7 +3,7 @@
 ## General Information
 
 **Name of Macro:** ContactJ.ijm\
-**Date:** 28 February 2021\
+**Date:** 30th December 2021\
 **Objective:** Analyse contacts between fluorescently labelled lipid droplets and mitochondria from cultured cells in confocal microscopy images.\
 **Input:** .tif format of Confocal microscopy images (nbits, 1 section) of labelled cells, 3 fluorescent channels (lipid droplet labelling, mitochondria labelling and DNA DAPI labelling).\
 Output: The following parameters are quantified from each cell (in um and um2) and stored in a results table, registering the file name and number of cell detected: 
