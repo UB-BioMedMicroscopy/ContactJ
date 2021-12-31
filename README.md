@@ -37,6 +37,8 @@ ContactJ is macro script for the open-source image analysis software ImageJ. Thi
 4.	ContactJ GUI appears and allows choosing name of organelles, thresholds, compensation, colocalization ratio and the possibility to choose the cells to analyse. 
 5.	ContactJ opens the images one by one analysing them, cell by cell, and saving ROIs and all the measurements data obtained (areas, intensity
 
-![imagen](https://user-images.githubusercontent.com/46067312/147687880-ccbb47ac-9a5f-48f7-833d-fcedb2012687.png)
+**ContactJ DOI**
+
+ https://doi.org/10.5281/zenodo.5810874 
 
 
