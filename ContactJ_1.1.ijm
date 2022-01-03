@@ -14,7 +14,7 @@ Gemma Martin (gemmamartin@ub.edu) , Maria Calvo (mariacalvo@ub.edu)
 Name of Macro: ContactJ.ijm
 
 
-Date: 28 February 2021
+Date: 31 December 2021
 
 Objective: Analyse contacts between fluorescently labelled lipid droplets and mitochondria from cultured cells in confocal microscopy images. 
 
