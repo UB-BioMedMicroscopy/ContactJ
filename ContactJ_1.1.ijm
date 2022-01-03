@@ -235,7 +235,7 @@ for(i=0;i<list.length;i++){
 
 			if (check==1) {
 
-				waitForUser("Check Cells ROIs. Erase the excluded for measurement. ClicK OK when finished");
+				waitForUser("Check Cells ROIs. Delete the excluded ones for measurement. ClicK OK when finished");
 
 			}
 
